@@ -1,5 +1,3 @@
-- @Henrique-hpds
-- Computer Engineering student at State University of Campinas (UNICAMP)
 
 
 <!---
