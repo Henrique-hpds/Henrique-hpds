@@ -1,5 +1,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-parede-de-souza-58715b244/)
 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Henrique-hpds)
+
 # About Me:
 Computer Engineering student at State University of Campinas (Brazil)<br>
  
